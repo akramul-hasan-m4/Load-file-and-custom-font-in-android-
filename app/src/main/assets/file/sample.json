@@ -1,0 +1,12 @@
+{
+  "credential": [
+    {
+      "name": "Linear Motion",
+      "url": "https://stackoverflow.com/"
+    },
+    {
+      "name": "Constant Acceleration Motion",
+      "url": "https://www.jetbrains.com/student/"
+    }
+  ]
+}

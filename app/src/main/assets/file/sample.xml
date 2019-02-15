@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<records>
+    <employee>
+        <name>Akramul</name>
+        <surname>Hasan</surname>
+        <salary>50000</salary>
+    </employee>
+
+    <employee>
+        <name>Abul kalam </name>
+        <surname>Azad</surname>
+        <salary>60000</salary>
+    </employee>
+
+    <employee>
+        <name>Arif</name>
+        <surname>Hossain</surname>
+        <salary>70000</salary>
+    </employee>
+
+    <employee>
+        <name>Md</name>
+        <surname>Nuruzzaman</surname>
+        <salary>90000</salary>
+    </employee>
+
+</records>
