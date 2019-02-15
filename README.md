@@ -43,9 +43,9 @@ see [CustomTextView.java](https://github.com/akramul-hasan-m4/Load-file-and-cust
 You can also direct use from any class see OnCreate method in [MainActivity.java](https://github.com/akramul-hasan-m4/Load-file-and-custom-font-in-android-/blob/master/app/src/main/java/com/example/loadpropertiesfileandcustomfont/MainActivity.java) like -
 
 ```java
-		TextView textview = findViewById(R.id.textView);
-        Typeface font = ResourcesCompat.getFont(this, R.font.greatvibes_regular);
-        textview. setTypeface(font);
+	TextView textview = findViewById(R.id.textView);
+	Typeface font = ResourcesCompat.getFont(this, R.font.greatvibes_regular);
+	textview. setTypeface(font);
 ```
 
 Or direct use from layout file see [activity_main.xml](https://github.com/akramul-hasan-m4/Load-file-and-custom-font-in-android-/blob/master/app/src/main/res/layout/activity_main.xml) like -
